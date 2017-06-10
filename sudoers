@@ -1,0 +1,5 @@
+#!/bin/bash
+
+file: /etc/sudoers
+configure:
+wanglei ALL=(ALL)  NOPASSWD: ALL
